@@ -9,5 +9,23 @@
 </head>
 <body onload="loadcards()">
     
+    <table id="cardOptions">
+
+        <tr>
+            <td>
+                <input type="checkbox" id="raresOnly" name="raresOnly" value="raresOnly" onclick="loadcards()">
+                <label for="raresOnly">Show Rare Cards Only</label>
+            </td>
+            <td>
+                <input type="checkbox" id="currency" name="currency" value="currency" onclick="loadcards()">
+                <label for="currency">Show Prices in EURO</label>
+            </td>
+        </tr>
+    </table>
+
+    <table id="myCards" border="1" width="75%">
+
+    </table>
+
 </body>
 </html>
