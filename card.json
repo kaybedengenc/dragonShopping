@@ -1,0 +1,12 @@
+[
+    {"id":"111", "name":"Red Dragon", "priceUSD":100, "isRare":false},
+    {"id":"112", "name":"Green Dragon", "priceUSD":25, "isRare":true},
+    {"id":"113", "name":"Black Dragon", "priceUSD":52, "isRare":false},
+    {"id":"114", "name":"Gold Dragon", "priceUSD":50, "isRare":false},
+    {"id":"115", "name":"Chaos Dragon", "priceUSD":61, "isRare":false},
+    {"id":"116", "name":"Silver Dragon", "priceUSD":250, "isRare":true},
+    {"id":"117", "name":"Platinium Dragon", "priceUSD":600, "isRare":false},
+    {"id":"118", "name":"Bronze Dragon", "priceUSD":400, "isRare":false},
+    {"id":"119", "name":"Etheral Dragon", "priceUSD":150, "isRare":false},
+    {"id":"120", "name":"Undead Dragon", "priceUSD":360, "isRare":true}
+]
